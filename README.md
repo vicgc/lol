@@ -1,9 +1,14 @@
 lol
 ===
 
-mac offensive anti-forensics script
+this script detects USB mass storage devices and then allows a set action to take place based on serial number.
+
+current functions:
 
 
-This script will take input from system.log waiting for mass storage controllers. If one is detected, it will check the serial number against known serials. If no match is found, all disks not in the safe list will be overwritten.
+wipe drive with troll ascii (killStuff)
+force unmount the drive (forceUnmount)
+alert the user via messagebox (popUp)
+
 
 Place files in /private/var/lol/ 
