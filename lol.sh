@@ -1,7 +1,7 @@
 #!/bin/sh
 # lol.sh
 # 
-# Description: this script nukes any non-whitelisted UUIDs 
+# Description: this script nukes any non-whitelisted USB drives
 #
 # Created by squinn on 6/9/2014
 
