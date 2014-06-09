@@ -1,0 +1,4 @@
+devices that won’t be written to. one per line please.
+
+/dev/disk0
+/dev/disk1
