@@ -3,7 +3,7 @@
 # 
 # Description: this script nukes any non-whitelisted UUIDs 
 #
-# Created by andrewws on 06/13/13.
+# Created by squinn on 6/9/2014
 
 set -x	# DEBUG. Display commands and their arguments as they are executed
 # set -v	# VERBOSE. Display shell input lines as they are read.
