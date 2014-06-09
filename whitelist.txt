@@ -1,0 +1,4 @@
+put your whitelisted serial numbers here one per line. examples below
+
+000000009833
+0708413FB6940757
